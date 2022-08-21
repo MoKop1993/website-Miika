@@ -61,6 +61,8 @@ color: #272142;
     padding: 50px 20px 160px 20px;
 }
 
+
+
 .content h1 {
 font-size: 54px;
 line-height: 80px;
@@ -79,15 +81,12 @@ line-height: 80px;
 }
 
 .content p {
-   
     font-size: 14px;
 }
 
 
 .content {
-    margin: 30px;
-    
-   
+    margin: 30px; 
 }
 
 .btn-branding {
@@ -110,10 +109,6 @@ line-height: 80px;
 
 .project-description {
     padding: 10px;
-}
-
-.project-description-1 {
-    padding-bottom: 160px;
 }
 
 .logo {
@@ -176,11 +171,6 @@ nav a:hover, nav li.active a {
 padding: 0;
 text-align: center;
 }
-
-.project-description-1 {
-    
-    text-align: center;
-    }
 
 nav a {
     font-size: 14px;
