@@ -165,6 +165,9 @@ nav a:hover, nav li.active a {
     .content-container {
         text-align: center;  
     }
+    .content h1 {
+        font-size: 44px;
+    }
 
 .project-description {
 padding: 0;
