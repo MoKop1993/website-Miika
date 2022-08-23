@@ -142,6 +142,10 @@ nav a:hover, nav li.active a {
     color: var(--branding-color);
 }
 
+footer.container {
+    padding: 40px;
+}
+
 @media (max-width: 900px) {
     h1 {
         font-size: 44px;
