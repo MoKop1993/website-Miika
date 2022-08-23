@@ -143,7 +143,7 @@ nav a:hover, nav li.active a {
 }
 
 footer.container {
-    padding: 40px;
+    padding: 40px 10 10 0;
 }
 
 @media (max-width: 900px) {
@@ -187,7 +187,12 @@ nav a {
     margin-bottom: 70px;
 }
 
-
-
+h4 {
+    font-size: 22px;
 }
-    
+
+footer p {
+   margin: 0;
+   font-size: 8px;
+}
+} 
